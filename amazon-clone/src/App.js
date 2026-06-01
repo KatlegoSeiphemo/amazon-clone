@@ -44,7 +44,7 @@ function AppInner() {
             <div style={{ textAlign: 'center', padding: '80px 20px', color: 'var(--text-secondary)' }}>
               <div style={{ fontSize: 60 }}>👤</div>
               <h2 style={{ color: 'var(--text-primary)', marginTop: 16 }}>Account</h2>
-              <p>Sign-in is mocked — this is a frontend-only clone!</p>
+             
             </div>
           } />
         </Routes>
